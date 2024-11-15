@@ -21,6 +21,7 @@ There are other existing solutions in the market, like Zapier and Integromat, so
 The official documentation can be found here: [https://automatisch.io/docs](https://automatisch.io/docs)
 
 ## Installation
+## By Mudassir Alam
 
 ```bash
 # Clone the repository
